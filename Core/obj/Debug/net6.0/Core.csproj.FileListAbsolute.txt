@@ -1,0 +1,12 @@
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/bin/Debug/net6.0/Core.deps.json
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/bin/Debug/net6.0/Core.dll
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/bin/Debug/net6.0/Core.pdb
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.dll
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/Core.pdb
+/Users/romankomarnitski/Desktop/GitHub/cleverios/Core/obj/Debug/net6.0/ref/Core.dll
